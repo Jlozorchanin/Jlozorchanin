@@ -3,14 +3,14 @@
 ## <span style="color:b866ff">About</span>
 ### 👨‍💻 Android Kotlin Developer
 #### Stack:
-- *Jetpack compose
-- *Ktor client
-- *Ktor backend
+- *Jetpack compose*
+- *Ktor client*
+- *Ktor backend*
 - *RoomDB*
 - *Koin*
 - *Services*
 - *Coroutines*
-- *DeepLinks
+- *DeepLinks*
 
 ## <span style="color:b866ff">Projects</span>
 ### [OsuApp](ссылка_на_проект)
