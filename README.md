@@ -1,5 +1,5 @@
 # Hi! It's Clover
-<img src="https://clovertestcode.ru/files/images/wallpaper.png" alt="Тест" width="300" />
+<img src="https://clovertestcode.ru/files/images/rofl.jpg" alt="Тест" width="500" />
 
 ## <span style="color:b866ff">About</span>
 ### 👨‍💻 Android Kotlin Developer
