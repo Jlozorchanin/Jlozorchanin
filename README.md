@@ -1,6 +1,4 @@
 # Hi! It's Jlozor
-<img src="https://clovertestcode.ru/files/images/rofl.jpg" alt="Тест" width="500" />
-
 ## About
 ### 👨‍💻 Android Kotlin Developer
 #### Stack:
